@@ -1,4 +1,4 @@
-# Communicate-Data-Findings-for-BayWheels-Bike-Sharing-System-
+# Communicate Data Findings for BayWheels Bike Sharing System through univariate, bivariate and multivariate analysis.
 
 # Bay Wheels Bike Sharing System Usage Pattern
 ## by Yash Ahuja
